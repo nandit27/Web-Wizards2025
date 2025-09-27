@@ -237,16 +237,20 @@ Visit `http://localhost:3000` to access the application!
 <div align="center">
 
 ### 🏠 Home Page - Poll Listing
-![Home Page](https://via.placeholder.com/600x400/F1F5F9/334155?text=Poll+Listing+Page)
+![Home Page](<img width="1710" height="795" alt="Screenshot 2025-09-27 at 4 07 30 PM" src="https://github.com/user-attachments/assets/6dc01b62-c254-45e9-8952-f52d7d28613e" />)
+
 
 ### 🗳️ Voting Interface
-![Voting Interface](https://via.placeholder.com/600x400/EFF6FF/3B82F6?text=Voting+Interface)
+![Voting Interface](<img width="1710" height="985" alt="Screenshot 2025-09-27 at 4 08 17 PM" src="https://github.com/user-attachments/assets/f90ee661-aa03-4f47-963c-e65eb4e69e28" />)
+
 
 ### 📊 Results Dashboard
-![Results Dashboard](https://via.placeholder.com/600x400/F0FDF4/16A34A?text=Results+Dashboard)
+![Results Dashboard](<img width="1432" height="520" alt="Screenshot 2025-09-27 at 4 09 23 PM" src="https://github.com/user-attachments/assets/bb1e82b7-3360-4efe-b3d0-9e0fe0ce8fb7" />)
+
 
 ### 👨‍💼 Admin Dashboard
-![Admin Dashboard](https://via.placeholder.com/600x400/FEF3C7/D97706?text=Admin+Dashboard)
+![Admin Dashboard](<img width="1710" height="933" alt="Screenshot 2025-09-27 at 4 10 00 PM" src="https://github.com/user-attachments/assets/b2691a74-fb63-4867-993f-a4a9a20a1086" />)
+
 
 </div>
 
